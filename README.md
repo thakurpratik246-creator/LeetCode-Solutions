@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0260-single-number-iii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 ## Hash Table
 |  |
 | ------- |
@@ -35,4 +36,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0260-single-number-iii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0260-single-number-iii) |
 <!---LeetCode Topics End-->
