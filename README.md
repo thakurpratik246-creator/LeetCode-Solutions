@@ -9,10 +9,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0260-single-number-iii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0260-single-number-iii) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0001-two-sum) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 ## Binary Search
 |  |
 | ------- |
@@ -40,4 +42,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0260-single-number-iii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0260-single-number-iii) |
+| [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 <!---LeetCode Topics End-->
