@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0260-single-number-iii) |
+| [0560-subarray-sum-equals-k](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0041-first-missing-positive](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0560-subarray-sum-equals-k](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [2965-find-missing-and-repeated-values](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -76,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0018-4sum) |
+## Prefix Sum
+|  |
+| ------- |
+| [0560-subarray-sum-equals-k](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 <!---LeetCode Topics End-->
