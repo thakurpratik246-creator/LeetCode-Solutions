@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0041-first-missing-positive](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0053-maximum-subarray](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0074-search-a-2d-matrix](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0137-single-number-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0137-single-number-ii) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 ## Two Pointers
 |  |
@@ -86,4 +88,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
