@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0137-single-number-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0260-single-number-iii) |
+| [0283-move-zeroes](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0560-subarray-sum-equals-k](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [1929-concatenation-of-array](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2965-find-missing-and-repeated-values](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -49,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0151-reverse-words-in-a-string](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0283-move-zeroes](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0443-string-compression](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0443-string-compression) |
 ## String
 |  |
