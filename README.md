@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -111,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0018-4sum) |
 | [0645-set-mismatch](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
 ## Prefix Sum
 |  |
@@ -146,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
+## Counting Sort
+|  |
+| ------- |
+| [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 <!---LeetCode Topics End-->
