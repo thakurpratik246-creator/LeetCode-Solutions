@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0560-subarray-sum-equals-k](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [0766-toeplitz-matrix](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1470-shuffle-the-array](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [0766-toeplitz-matrix](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [2596-check-knight-tour-configuration](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
