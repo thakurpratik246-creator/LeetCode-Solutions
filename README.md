@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1929-concatenation-of-array](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2596-check-knight-tour-configuration](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0059-spiral-matrix-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0074-search-a-2d-matrix](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
+| [2596-check-knight-tour-configuration](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2965-find-missing-and-repeated-values](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 ## Simulation
 |  |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [1929-concatenation-of-array](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
+| [2596-check-knight-tour-configuration](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Sorting
 |  |
 | ------- |
@@ -164,4 +167,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Depth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
+## Breadth-First Search
+|  |
+| ------- |
+| [2596-check-knight-tour-configuration](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 <!---LeetCode Topics End-->
