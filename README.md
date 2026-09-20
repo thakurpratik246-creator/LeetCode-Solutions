@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0007-reverse-integer](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0009-palindrome-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
