@@ -1,27 +1,29 @@
 class Solution {
 public:
-    bool isDividing(int n) {
-        string num = to_string(n);
-        int k = 0;
-        while (k < num.length()) {
-            if (num[k] - '0' == 0)
-                return false;
-            if (n % (num[k] - '0') != 0) {
-                return false;
-            }
-            k++;
-        }
-        return true;
-    }
-
     vector<int> selfDividingNumbers(int left, int right) {
         vector<int> ans;
-        for (int i = left; i <= right; i++) {
 
-            if (isDividing(i)) {
-                ans.push_back(i);
+        for (int n = left; n <= right; n++) {
+
+            int x = n ;
+            bool self_Dividing = true ;
+
+            while(x > 0) {
+                int digit = x % 10 ;
+
+                if(digit == 0 || n % digit != 0) {
+                    self_Dividing = false ;
+                    break ;
+                }
+                
+                x /= 10 ;
+            }
+
+            if (self_Dividing) {
+                ans.push_back(n);
             }
         }
+
         return ans;
     }
 };
