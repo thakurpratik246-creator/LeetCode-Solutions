@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
 | [0645-set-mismatch](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0645-set-mismatch) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [2965-find-missing-and-repeated-values](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3158-find-the-xor-of-numbers-which-appear-twice](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/3158-find-the-xor-of-numbers-which-appear-twice) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0509-fibonacci-number](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
+| [1015-smallest-integer-divisible-by-k](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 | [2485-find-the-pivot-integer](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
@@ -212,4 +214,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0912-sort-an-array](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [1015-smallest-integer-divisible-by-k](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
 <!---LeetCode Topics End-->
