@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0090-subsets-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0090-subsets-ii) |
 | [0137-single-number-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0137-single-number-ii) |
+| [0162-find-peak-element](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0260-single-number-iii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0260-single-number-iii) |
@@ -67,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0074-search-a-2d-matrix](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
+| [0162-find-peak-element](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0268-missing-number](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
