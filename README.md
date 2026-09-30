@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1492-the-kth-factor-of-n](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [2485-find-the-pivot-integer](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -256,4 +257,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0141-linked-list-cycle](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
+## Number Theory
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
+## Prime Factorization
+|  |
+| ------- |
+| [1492-the-kth-factor-of-n](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 <!---LeetCode Topics End-->
