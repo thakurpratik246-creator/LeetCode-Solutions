@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0443-string-compression](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0443-string-compression) |
@@ -300,4 +301,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
+## Bracket Sequences
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
