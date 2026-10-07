@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1089-duplicate-zeros](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [1441-build-an-array-with-stack-operations](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1470-shuffle-the-array](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1470-shuffle-the-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1929-concatenation-of-array](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [1441-build-an-array-with-stack-operations](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2596-check-knight-tour-configuration](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [3498-reverse-degree-of-a-string](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
@@ -324,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0496-next-greater-element-i](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0856-score-of-parentheses](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1441-build-an-array-with-stack-operations](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 ## Bracket Sequences
 |  |
 | ------- |
