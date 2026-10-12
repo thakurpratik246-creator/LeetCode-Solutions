@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0084-largest-rectangle-in-histogram](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0090-subsets-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0090-subsets-ii) |
+| [0134-gas-station](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0219-contains-duplicate-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
@@ -313,6 +314,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0134-gas-station](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0334-increasing-triplet-subsequence](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2405-optimal-partition-of-string](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
