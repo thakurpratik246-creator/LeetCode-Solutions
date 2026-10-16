@@ -265,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Breadth-First Search
 |  |
 | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 | [2596-check-knight-tour-configuration](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Heap (Priority Queue)
 |  |
@@ -392,4 +393,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
+## Tree
+|  |
+| ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+## Binary Tree
+|  |
+| ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
 <!---LeetCode Topics End-->
