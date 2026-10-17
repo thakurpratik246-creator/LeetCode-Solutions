@@ -261,11 +261,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2596-check-knight-tour-configuration](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 ## Heap (Priority Queue)
 |  |
@@ -397,8 +399,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0102-binary-tree-level-order-traversal) |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 <!---LeetCode Topics End-->
