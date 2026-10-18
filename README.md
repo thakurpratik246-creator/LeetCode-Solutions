@@ -1,6 +1,30 @@
 # LeetCode-Solutions
 A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
 
+---
+
+## 🚀 LeetCode Progress — Pratik_3105_coder
+[![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Pratik_3105_coder/)
+
+<p align="center">
+  <img alt="Easy" src="https://img.shields.io/badge/Easy-36-brightgreen" />
+  <img alt="Medium" src="https://img.shields.io/badge/Medium-50-yellow" />
+  <img alt="Hard" src="https://img.shields.io/badge/Hard-8-red" />
+  <img alt="Total" src="https://img.shields.io/badge/Total-94-blue" />
+</p>
+
+### 📊 Summary (from stats.json)
+| Difficulty | Count |
+| --- | ---: 
+| 🟢 Easy   | 36 
+| 🟡 Medium | 50 
+| 🔴 Hard   | 8 
+| **Total** | **94** 
+
+
+🔗 Quick links
+- LeetCode profile: https://leetcode.com/u/Pratik_3105_coder/
+
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
