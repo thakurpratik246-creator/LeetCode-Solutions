@@ -7,19 +7,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 [![LeetCode Profile](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/Pratik_3105_coder/)
 
 <p align="center">
-  <img alt="Easy" src="https://img.shields.io/badge/Easy-36-brightgreen" />
-  <img alt="Medium" src="https://img.shields.io/badge/Medium-50-yellow" />
+  <img alt="Easy" src="https://img.shields.io/badge/Easy-38-brightgreen" />
+  <img alt="Medium" src="https://img.shields.io/badge/Medium-54-yellow" />
   <img alt="Hard" src="https://img.shields.io/badge/Hard-8-red" />
-  <img alt="Total" src="https://img.shields.io/badge/Total-94-blue" />
+  <img alt="Total" src="https://img.shields.io/badge/Total-100-blue" />
 </p>
 
 ### 📊 Summary (from stats.json)
 | Difficulty | Count |
 | --- | ---: 
-| 🟢 Easy   | 36 
-| 🟡 Medium | 50 
+| 🟢 Easy   | 38 
+| 🟡 Medium | 54 
 | 🔴 Hard   | 8 
-| **Total** | **94** 
+| **Total** | **100** 
 
 
 🔗 Quick links
