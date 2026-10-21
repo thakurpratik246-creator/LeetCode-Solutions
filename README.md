@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0134-gas-station](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0134-gas-station) |
 | [0137-single-number-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0137-single-number-ii) |
 | [0162-find-peak-element](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0162-find-peak-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0219-contains-duplicate-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0219-contains-duplicate-ii) |
 | [0229-majority-element-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0053-maximum-subarray) |
+| [0215-kth-largest-element-in-an-array](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0912-sort-an-array](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Two Pointers
@@ -202,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0018-4sum) |
+| [0215-kth-largest-element-in-an-array](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0229-majority-element-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0645-set-mismatch](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0645-set-mismatch) |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 | [0912-sort-an-array](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 ## Merge Sort
 |  |
@@ -432,4 +436,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0199-binary-tree-right-side-view](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0199-binary-tree-right-side-view) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
