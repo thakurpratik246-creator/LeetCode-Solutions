@@ -30,6 +30,7 @@ public:
         if(root->right) {
             helper(ans , path , root->right , targetSum) ;
         }
+        path.pop_back() ;
     }
 
     vector<vector<int>> pathSum(TreeNode* root, int targetSum) {
