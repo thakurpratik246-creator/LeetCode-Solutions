@@ -9,22 +9,43 @@
  *     TreeNode(int x, TreeNode *left, TreeNode *right) : val(x), left(left), right(right) {}
  * };
  */
+
 class Solution {
 public:
-    void inOrder(TreeNode* root , vector<int>& ans) {
-        if(root == NULL) {
-            return ;
+    void inorder(TreeNode* root, vector<int>& ans) {
+        if (root == NULL) {
+            return;
         }
-        inOrder(root->left , ans) ;
-        ans.push_back(root->val) ;
-        inOrder(root->right , ans) ;
+
+        inorder(root->left, ans);
+        ans.push_back(root->val);
+        inorder(root->right, ans);
     }
+
     vector<int> getAllElements(TreeNode* root1, TreeNode* root2) {
-        vector<int> ans ;
-        inOrder(root1, ans) ;
-        inOrder(root2 , ans) ;
-        
-        sort(ans.begin() , ans.end()) ;
-        return ans ;
+        vector<int> a, b, ans;
+
+        inorder(root1, a);
+        inorder(root2, b);
+
+        int i = 0, j = 0;
+
+        while (i < a.size() && j < b.size()) {
+            if (a[i] <= b[j]) {
+                ans.push_back(a[i++]);
+            } else {
+                ans.push_back(b[j++]);
+            }
+        }
+
+        while (i < a.size()) {
+            ans.push_back(a[i++]);
+        }
+
+        while (j < b.size()) {
+            ans.push_back(b[j++]);
+        }
+
+        return ans;
     }
 };
