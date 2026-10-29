@@ -11,37 +11,31 @@
  */
 class Solution {
 public:
+    int prevOrder = 0 ; 
     int kthSmallest(TreeNode* root, int k) {
         if(root == NULL) {
             return -1 ;
         }
 
-        queue<TreeNode*> q ;
-        q.push(root) ;
-        vector<int> ans ;
-
-        while(q.size() > 0) {
-            int s = q.size() ;
-            for(int i = 0 ; i < s ; i++) {
-                TreeNode* curr = q.front() ;
-                q.pop() ;
-
-                if(curr->left != NULL) {
-                    q.push(curr->left) ;
-                }
-                if(curr->right != NULL) {
-                    q.push(curr->right) ;
-                }
-
-                ans.push_back(curr->val) ;
+        if(root->left != NULL) {
+            int leftAns = kthSmallest(root->left , k) ;
+            if(leftAns != -1) {
+                return leftAns ;
             }
         }
-        sort(ans.begin() , ans.end()) ;
 
-        if(k > ans.size()) {
-            return -1 ;
+        if(prevOrder + 1 == k) {
+            return root->val ;
+        }
+        prevOrder = prevOrder + 1 ;
+
+        if(root->right != NULL) {
+            int rightAns = kthSmallest(root->right , k) ;
+            if(rightAns != -1) {
+                return rightAns ;
+            }
         }
 
-        return ans[k-1] ;
-    }
+        return -1 ;
+    }   
 };
