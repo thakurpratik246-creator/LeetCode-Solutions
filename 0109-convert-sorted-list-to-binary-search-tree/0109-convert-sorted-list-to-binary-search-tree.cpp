@@ -21,25 +21,24 @@
  */
 class Solution {
 public:
-    TreeNode* BSTfromSortedArray(vector<int>& ans , int st , int end) {
-        if(st > end) {
-            return NULL ;
+    TreeNode* convertToBST(ListNode* start, ListNode* end){
+        if(start == end) return nullptr;
+        ListNode* slow = start;
+        ListNode* fast = start;
+
+        while(fast!=end && fast->next!=end){
+            slow = slow->next;
+            fast = fast->next->next;
         }
-        int mid  = st + (end - st) / 2 ;
-        TreeNode* root = new TreeNode(ans[mid]) ;
-        root->left = BSTfromSortedArray(ans , st , mid - 1) ;
-        root->right = BSTfromSortedArray(ans , mid + 1 , end) ;
-        return root ;
+
+        TreeNode* head = new TreeNode(slow->val);
+        head->left = convertToBST(start, slow);
+        head->right = convertToBST(slow->next, end);
+        return head;
     }
 
     TreeNode* sortedListToBST(ListNode* head) {
-        vector<int> ans ;
-        ListNode* curr = head ;
-        while(curr != NULL) {
-            ans.push_back(curr->val) ;
-            curr = curr->next ;
-        }
-
-        return BSTfromSortedArray(ans , 0 , ans.size() - 1) ;
+        if(head == nullptr) return nullptr;
+        return convertToBST(head, nullptr);
     }
 };
