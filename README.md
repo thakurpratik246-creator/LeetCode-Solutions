@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0766-toeplitz-matrix](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
 | [0912-sort-an-array](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0912-sort-an-array) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1089-duplicate-zeros](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
@@ -429,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
 | [0856-score-of-parentheses](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1441-build-an-array-with-stack-operations](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2390-removing-stars-from-a-string](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -445,6 +447,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0084-largest-rectangle-in-histogram) |
 | [0496-next-greater-element-i](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0739-daily-temperatures) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 ## Range Minimum/Maximum Query
 |  |
 | ------- |
@@ -491,6 +494,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -515,6 +519,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
@@ -531,6 +536,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
+| [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
 ## Binary Lifting
 |  |
