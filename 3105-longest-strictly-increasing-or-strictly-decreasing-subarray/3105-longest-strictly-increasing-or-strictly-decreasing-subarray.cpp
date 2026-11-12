@@ -1,31 +1,25 @@
 class Solution {
 public:
     int longestMonotonicSubarray(vector<int>& nums) {
-        int ans1 = 1 ;
-        for(int i = 0 ; i < nums.size() ; i++) {
-            int count = 1 ;
-            for(int j = i ; j < nums.size() - 1; j++) {
-                if(nums[j] < nums[j + 1]) {
-                    count++ ;
-                } else {
-                    count = 1 ;
-                }
-                ans1 = max(count , ans1) ;
-            }
-        }
+        int incLength = 1, decLength = 1;
+        int maxLength = 1;
 
-        int ans2 = 1 ;
-        for(int i = 0 ; i < nums.size() ; i++) {
-            int count = 1 ;
-            for(int j = i ; j < nums.size() - 1; j++) {
-                if(nums[j] > nums[j + 1]) {
-                    count++ ;
-                } else {
-                    count = 1 ;
-                }
-                ans2 = max(count , ans2) ;
+        // Iterate through array comparing adjacent elements
+        for (int pos = 0; pos < nums.size() - 1; pos++) {
+            if (nums[pos + 1] > nums[pos]) {
+                incLength++;
+                decLength = 1; 
+            } else if (nums[pos + 1] < nums[pos]) {
+                decLength++;
+                incLength = 1;  
+            } else {
+                incLength = 1;
+                decLength = 1;
             }
+
+            maxLength = max(maxLength, max(incLength, decLength));
         }
-        return max(ans1 , ans2) ;
+        
+        return maxLength;
     }
 };
