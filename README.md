@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0066-plus-one](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0078-subsets) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0001-two-sum) |
 | [0037-sudoku-solver](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0041-first-missing-positive](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0041-first-missing-positive) |
+| [0073-set-matrix-zeroes](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0138-copy-list-with-random-pointer](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0142-linked-list-cycle-ii) |
@@ -209,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0037-sudoku-solver](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0037-sudoku-solver) |
 | [0054-spiral-matrix](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0073-set-matrix-zeroes](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0074-search-a-2d-matrix) |
 | [0240-search-a-2d-matrix-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0240-search-a-2d-matrix-ii) |
 | [0766-toeplitz-matrix](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0766-toeplitz-matrix) |
