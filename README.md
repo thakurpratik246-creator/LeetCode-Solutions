@@ -166,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0387-first-unique-character-in-a-string](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
 | [0443-string-compression](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
+| [0606-construct-string-from-binary-tree](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0856-score-of-parentheses](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0856-score-of-parentheses) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
@@ -324,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0513-find-bottom-left-tree-value](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0606-construct-string-from-binary-tree](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1161-maximum-level-sum-of-a-binary-tree) |
 | [1305-all-elements-in-two-binary-search-trees](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1305-all-elements-in-two-binary-search-trees) |
@@ -504,6 +506,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0606-construct-string-from-binary-tree](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
@@ -529,6 +532,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0513-find-bottom-left-tree-value](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0513-find-bottom-left-tree-value) |
 | [0515-find-largest-value-in-each-tree-row](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0515-find-largest-value-in-each-tree-row) |
+| [0606-construct-string-from-binary-tree](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
 | [0701-insert-into-a-binary-search-tree](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0701-insert-into-a-binary-search-tree) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
