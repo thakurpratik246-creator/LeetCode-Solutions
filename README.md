@@ -171,6 +171,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2390-removing-stars-from-a-string](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2405-optimal-partition-of-string](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
+| [2914-minimum-number-of-changes-to-make-binary-string-beautiful](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2914-minimum-number-of-changes-to-make-binary-string-beautiful) |
 | [3498-reverse-degree-of-a-string](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Math
 |  |
