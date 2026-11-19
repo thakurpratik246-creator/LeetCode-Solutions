@@ -69,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1679-max-number-of-k-sum-pairs](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1929-concatenation-of-array](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2596-check-knight-tour-configuration](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2778-sum-of-squares-of-special-elements) |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2913-subarrays-distinct-element-sum-of-squares-i) |
@@ -251,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [2583-kth-largest-sum-in-a-binary-tree](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2583-kth-largest-sum-in-a-binary-tree) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Prefix Sum
@@ -415,6 +417,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0921-minimum-add-to-make-parentheses-valid) |
 | [2405-optimal-partition-of-string](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2405-optimal-partition-of-string) |
+| [2567-minimum-score-by-changing-two-elements](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2567-minimum-score-by-changing-two-elements) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/3727-maximum-alternating-sum-of-squares) |
 ## Longest Increasing Subsequence
