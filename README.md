@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0912-sort-an-array](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0912-sort-an-array) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1089-duplicate-zeros](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1089-duplicate-zeros) |
+| [1352-product-of-the-last-k-numbers](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [1385-find-the-distance-value-between-two-arrays](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1385-find-the-distance-value-between-two-arrays) |
 | [1441-build-an-array-with-stack-operations](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0633-sum-of-square-numbers](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
 | [0728-self-dividing-numbers](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0728-self-dividing-numbers) |
 | [1015-smallest-integer-divisible-by-k](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1015-smallest-integer-divisible-by-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1492-the-kth-factor-of-n](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [2485-find-the-pivot-integer](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
@@ -262,6 +264,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0560-subarray-sum-equals-k) |
+| [1352-product-of-the-last-k-numbers](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [2485-find-the-pivot-integer](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 ## Dynamic Programming
 |  |
@@ -482,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0146-lru-cache) |
 | [0155-min-stack](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0155-min-stack) |
+| [1352-product-of-the-last-k-numbers](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 ## Queue
 |  |
 | ------- |
@@ -585,4 +589,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0210-course-schedule-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0210-course-schedule-ii) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->
