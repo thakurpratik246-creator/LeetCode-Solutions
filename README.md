@@ -199,6 +199,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1492-the-kth-factor-of-n](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1492-the-kth-factor-of-n) |
 | [2485-find-the-pivot-integer](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2485-find-the-pivot-integer) |
 | [2965-find-missing-and-repeated-values](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2965-find-missing-and-repeated-values) |
+| [3360-stone-removal-game](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/3723-maximize-sum-of-squares-of-digits) |
@@ -240,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1929-concatenation-of-array](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
 | [2596-check-knight-tour-configuration](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2596-check-knight-tour-configuration) |
+| [3360-stone-removal-game](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/3498-reverse-degree-of-a-string) |
 ## Sorting
 |  |
