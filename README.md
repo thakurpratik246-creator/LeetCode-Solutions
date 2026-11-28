@@ -170,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0387-first-unique-character-in-a-string](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0387-first-unique-character-in-a-string) |
+| [0415-add-strings](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0443-string-compression](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0443-string-compression) |
 | [0541-reverse-string-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0541-reverse-string-ii) |
 | [0606-construct-string-from-binary-tree](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0606-construct-string-from-binary-tree) |
@@ -190,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0150-evaluate-reverse-polish-notation](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0172-factorial-trailing-zeroes](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0172-factorial-trailing-zeroes) |
 | [0268-missing-number](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0268-missing-number) |
+| [0415-add-strings](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0509-fibonacci-number](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0509-fibonacci-number) |
 | [0633-sum-of-square-numbers](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0633-sum-of-square-numbers) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0054-spiral-matrix](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0415-add-strings](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/0415-add-strings) |
 | [1441-build-an-array-with-stack-operations](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1441-build-an-array-with-stack-operations) |
 | [1929-concatenation-of-array](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 | [2390-removing-stars-from-a-string](https://github.com/thakurpratik246-creator/LeetCode-Solutions/tree/master/2390-removing-stars-from-a-string) |
